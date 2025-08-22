@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sebastián Moreno
 
 <div align="center">
-  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=QA%20Automation%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Passionate%20about%20Quality%20Assurance%20and%20Test%20Automation&descAlignY=51&descAlign=62">
+  <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=300&section=header&text=QA%20Automation%20Engineer&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Interested%20in%20Quality%20Assurance%20and%20Test%20Automation&descAlignY=51&descAlign=62">
 </div>
 
 ## 🚀 About Me
