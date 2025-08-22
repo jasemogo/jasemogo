@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Sebastián Moreno  
 
-<!--
-**jasemogo/jasemogo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 👨‍💻 QA Tester with experience in **manual and automated testing**.  
+- 🌐 Specialized in testing **Web, APIs, and Databases**.  
+- 🛠️ Skilled with tools like **Selenium, Postman, SQL**.  
+- 📊 Experienced in designing test cases, reporting bugs, and creating automated scripts.  
+- 🚀 Interested about **Test Automation** and growing into a **QA Automation Engineer**.  
+- 🔎 Strong analytical mindset, attention to detail, and continuous learning attitude.  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- **Languages/Frameworks**: Python, C#  
+- **Automation Tools**: Selenium, Postman  
+- **Databases**: SQL (PostgreSQL, SQL Server)  
+- **Others**: Git, Jira
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
+- 📧 Email: tuemail@example.com  
+
