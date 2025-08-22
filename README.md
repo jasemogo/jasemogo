@@ -15,6 +15,6 @@
 - **Others**: Git, Jira
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/tuusuario)  
-- 📧 Email: tuemail@example.com  
+- 💼 [LinkedIn](https://www.linkedin.com/in/jaime-sebastián-moreno-gonzález)  
+- 📧 Email: j.sebastian.morenogonzalez@gmail.com  
 
